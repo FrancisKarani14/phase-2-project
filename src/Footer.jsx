@@ -10,6 +10,7 @@ export default function Footer() {
        <p>0748495749</p>
         <p>0748495749</p>
          <p>0748495749</p>
+         <email>email@gmail.com</email>
       <p>&copy;2025</p>
       <address>Nairobi Kenya @the Bazaar Plaza</address>
 
